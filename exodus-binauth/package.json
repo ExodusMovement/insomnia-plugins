@@ -2,7 +2,10 @@
   "name": "insomnia-plugin-exodus-binauth",
   "version": "1.0.0",
   "main": "src/index.js",
-  "homeurl": "https://github.com/ExodusMovement/insomnia-plugins/tree/master/insomnia-plugin-exodus-binauth",
+  "homeurl": "https://github.com/ExodusMovement/insomnia-plugins/tree/master/exodus-binauth",
+  "files": [
+    "src"
+  ],
   "insomnia": {
     "name": "exodus-binauth",
     "displayName": "Exodus Binauth Authentication",
