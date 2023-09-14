@@ -1,8 +1,8 @@
 {
   "name": "insomnia-plugin-exodus-binauth",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "src/index.js",
-  "homeurl": "https://github.com/ExodusMovement/insomnia-plugins/tree/master/exodus-binauth",
+  "homepage": "https://github.com/ExodusMovement/insomnia-plugins/tree/master/exodus-binauth",
   "files": [
     "src"
   ],
