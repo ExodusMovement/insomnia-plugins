@@ -1,0 +1,14 @@
+{
+  "name": "insomnia-plugin-exodus-binauth",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "homeurl": "https://github.com/ExodusMovement/insomnia-plugins/tree/master/insomnia-plugin-exodus-binauth",
+  "insomnia": {
+    "name": "exodus-binauth",
+    "displayName": "Exodus Binauth Authentication",
+    "description": "Authenticate with Exodus Binauth"
+  },
+  "dependencies": {
+    "@exodus/sodium-crypto": "^3.3.0"
+  }
+}
