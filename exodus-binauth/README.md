@@ -1,8 +1,10 @@
 # Insomnia Plugin Exodus Binauth
 
+> Insomnia Plugin for [Exodus Binauth](https://github.com/ExodusMovement/binauth)
+
 ## Getting Started
 
-1. Install Plugin
+1. Settings - Plugins - Install Plugin: npm package name `insomnia-plugin-exodus-binauth`
 2. Auth - API Key
    - KEY: Authorization
    - VALUE: CTRL-SPACE to open Autocompletation menu, and select `Exodus Binauth`
